@@ -4,7 +4,7 @@
 <em>L’ancien murmure des bois appelle les braves... Êtes-vous prêt à répondre à l'appel des Bois Minuscules ?</em>
 </p>
 
-![image info](./tiny-wood-banner.png)
+![image info](https://raw.githubusercontent.com/Tiny-Woods/.github/main/profile/tiny-wood-banner.png)
 
 ### 📖 Histoire
 Dans le monde assiégé de Loria, les Bois Minuscules sont notre dernier rempart face à l’obscurité envahissante. Jadis un sanctuaire de verdure et de magie, aujourd'hui, ils sont un champ de bataille hanté par des créatures avides d'essence vitale. Rejoignez les rangs des Derniers Veilleurs pour restaurer l'équilibre et percer les mystères de Tiny Woods.
